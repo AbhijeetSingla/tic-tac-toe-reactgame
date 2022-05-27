@@ -2,7 +2,7 @@
   transition: 150ms ease-out;
 }
 
-html, body {
+html, body, #root {
   height: 100%;
 }
 
@@ -241,3 +241,4 @@ button + button {
 }
 
 /* !custom css */
+

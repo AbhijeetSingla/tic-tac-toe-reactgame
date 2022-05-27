@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>
+    <>
       <header className="header-base capitalize">
         <h1>Tic Tac Toe</h1>
       </header>
@@ -10,11 +10,9 @@ function App() {
         <p>A simple Tic Tac Toe game created ReactJs, with undo capability.</p>
         <small>Check it out!</small>
       </div>
-
-
-
-
-
+      <div>
+        
+      </div>
       <footer className="footer-base flex">
       <div className="footer-heading">Social Links</div>
       <ul className="footer-social-links list-style-none flex">
@@ -27,7 +25,7 @@ function App() {
       </ul>
       <p>No Copyright &#169 2022. Made by Abhijeet Singla</p>
       </footer>
-    </div>
+    </>
   );
 }
 
