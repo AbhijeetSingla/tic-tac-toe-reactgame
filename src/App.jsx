@@ -11,7 +11,7 @@ function App() {
         <small>Check it out!</small>
       </div>
       <div>
-        
+        {/* code */}
       </div>
       <footer className="footer-base flex">
       <div className="footer-heading">Social Links</div>
